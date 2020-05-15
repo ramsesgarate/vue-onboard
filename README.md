@@ -22,4 +22,6 @@ slides: [
 To be able to use it, you must work from a local server, since you are working with ES6 modules, for more information, you can consult here [ES6 module support in Chrome 62/Chrome Canary 64, does not work locally, CORS error](https://stackoverflow.com/questions/46992463/es6-module-support-in-chrome-62-chrome-canary-64-does-not-work-locally-cors-er?rq=1)
 
 ### Visual Studio Code
-Puede descargar la extension 
+
+You can download the extension [Server Live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
